@@ -47,6 +47,7 @@ Libraries: pandas, numpy, time
 ### Reference and Project Data:
 The datasets containing all bikeshare information for the three cities (Chicago, New York and Washington) were all provided by Udacity.
 [Freecampcode](https://www.freecodecamp.org/learn/) 
+[GitHub](https://github.com/BelalMA/Udacity-BikeShare-Project/tree/main)
 
 ### Built with:
 IDE : Visual Studio Code
